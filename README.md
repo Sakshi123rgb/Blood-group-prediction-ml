@@ -58,5 +58,6 @@
 ```text
 Data Generation → Preprocessing → Train-Test Split → 
 Model Training → Evaluation → Prediction → Visualization
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37297528-c866-4148-9000-04f67d646446" />
 
+
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/04f696c8-5daa-4783-ba3d-b79ddc850cab" />
