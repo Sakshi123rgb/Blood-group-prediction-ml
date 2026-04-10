@@ -61,3 +61,9 @@ Model Training → Evaluation → Prediction → Visualization
 
 
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/04f696c8-5daa-4783-ba3d-b79ddc850cab" />
+
+## 📈 Output
+
+- Model predicts blood group based on input features  
+- Accuracy: ~20–30% (due to synthetic data)  
+- Visualization of blood group distribution using countplot  
